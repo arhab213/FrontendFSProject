@@ -1,0 +1,13 @@
+import './About.css'
+function About (props){
+return(
+<div id='AboutPage'>
+        <img src="./Logo.png" alt="" />
+        <h2>Since 1991 we deliver in WorldWide ....</h2>
+        <p id='pargaraphe'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, laboriosam sapiente. Excepturi, expedita cupiditate quibusdam porro vero, ducimus id placeat odio impedit voluptatibus fugiat tenetur modi possimus? Facilis accusamus laudantium quisquam voluptatem atque ad, at cum aperiam magnam consequuntur id officiis qui nostrum impedit saepe perspiciatis totam, eius nemo obcaecati placeat quo, doloremque dolor! Facilis quam possimus ipsam sed praesentium consequatur, cum iure animi, eius rem nulla architecto atque veniam nemo, repellat suscipit ut numquam ad. Quia nostrum possimus nulla numquam, nihil pariatur consequatur ut eius soluta voluptatum tempora! Eligendi velit deserunt suscipit rem ratione perspiciatis mollitia adipisci vero facere. Ipsa vel delectus exercitationem quo doloremque temporibus cumque itaque, blanditiis ullam, tempore eius magni id impedit saepe eum enim recusandae inventore corrupti quaerat cum fugiat! Laudantium, nobis? Omnis laborum facere, dicta explicabo asperiores quas itaque odit corporis soluta debitis vero. Qui temporibus odit et, perferendis omnis adipisci illum architecto, eveniet cum sequi doloremque id reiciendis, quaerat porro labore libero sit fuga. Neque omnis libero porro culpa impedit quidem repellendus optio fuga animi at corrupti voluptates tempora, numquam reprehenderit quos officia debitis! Assumenda quos corrupti, est aut, illum magnam fugit maiores et soluta consequatur neque alias itaque ipsam adipisci qui veniam. Est sed ullam recusandae provident sint excepturi qui tenetur. Incidunt fugiat accusantium a consectetur in beatae molestias, modi dicta sapiente tempore hic suscipit libero inventore adipisci nihil odit illum minima quae neque quidem. Adipisci fugit tempora, tempore vero libero nihil veniam saepe dolores ipsa eveniet explicabo expedita necessitatibus, cum provident voluptates praesentium. Perspiciatis distinctio dolore repudiandae excepturi dolores ab sit id soluta assumenda, eos eum accusantium asperiores atque saepe doloremque numquam rem. Obcaecati impedit suscipit nemo fugit quia reiciendis dolores praesentium, quas eaque. Officia, deleniti. Facere dicta blanditiis doloribus aliquid, quae vitae pariatur et distinctio ducimus beatae iste ipsam temporibus!</p>
+     
+</div>
+) 
+
+}
+export default About 

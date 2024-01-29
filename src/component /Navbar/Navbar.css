@@ -1,0 +1,30 @@
+#Logo{
+    height:80px;
+    margin:-10px 200px -5px 20px;
+   
+}
+#NavbarContainer{
+display: flex;
+gap:10%;
+background:white;
+box-shadow: 1px 1px 4px 0px black;
+position: fixed;
+width:100%;
+z-index:2;
+}
+#Cart{
+    padding: 20px;
+    font-size: 1.5rem;
+}
+.LinkElement{
+ text-decoration:none;
+ color:black;
+ font-size:1rem;
+
+ padding:22px 20px 10px 20px;
+ cursor: pointer;
+
+}
+.LinkElement:hover{
+    background: rgb(203, 203, 203);
+}

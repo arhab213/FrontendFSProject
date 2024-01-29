@@ -1,0 +1,22 @@
+.carousel-root{
+ margin:0 auto;
+    width:400px;
+    height:700px;
+}
+.carpusel{
+    opacity:1;
+}
+.control-arrow{
+    opacity:1;
+    color: black;
+}
+ 
+.thumb{
+height:70px;
+margin:10px 20px;
+  
+}
+#imageCarousel{
+    height:400px;
+    width:400px;
+}

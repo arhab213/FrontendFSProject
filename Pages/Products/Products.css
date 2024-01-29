@@ -1,0 +1,43 @@
+#shopContainer{
+    padding-top:100px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+body{
+    background-color: #F4F4F4;
+}
+#Cart{
+border-radius:10px;
+display: flex;
+justify-content: center;
+align-items: center;
+   padding:20px;
+   position: fixed;
+   background:white;
+   box-shadow: 0 1px 3px 0 black;
+   top:100px;
+   left:1%;
+   height:20px;
+   width:20px;
+ cursor: pointer;
+}
+.Cart{
+    position: fixed;
+    background: white;
+    padding:20px;
+    border: 0.5px solid black;
+    border-radius:10px;
+    top:5%;
+    left:6%;
+    overflow: scroll;
+    height: 600px;
+    width: 280px;
+    z-index: 3;
+}
+#total{
+    text-align: center;
+    margin:50px 0;
+    text-transform: uppercase;
+    color: rgb(243, 93, 93);
+}

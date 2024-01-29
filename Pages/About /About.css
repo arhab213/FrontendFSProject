@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&display=swap');
+
+#AboutPage{
+    
+}
+#AboutPage img{
+    display: block;
+    padding:50px 0;
+    margin:0 auto;
+    height:300px;
+    width:300px;
+}
+#AboutPage h2{
+    text-align: center;
+    font-family: 'Inclusive Sans', sans-serif;
+    margin-bottom:20px;
+}
+#AboutPage p{
+    text-align: center;
+    margin:0 20%;
+}
